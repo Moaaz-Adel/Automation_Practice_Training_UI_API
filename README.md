@@ -1,0 +1,2 @@
+# Automation_Practice_Training_UI_API
+Solve Challenges from Automation Practice
