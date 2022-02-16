@@ -1,0 +1,17 @@
+{
+  "name": "automationexercise",
+  "version": "1.0.0",
+  "description": "Automation Practice Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moaaz Adel",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.6",
+    "cypress": "^9.5.0",
+    "cypress-grep": "^2.13.1",
+    "faker": "^6.6.6"
+  }
+}

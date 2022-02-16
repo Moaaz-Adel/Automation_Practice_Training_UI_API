@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://www.automationexercise.com/",
+  "integrationFolder": "cypress/tests",
+  "viewPortHeight": 1080,
+  "viewPortWidth": 1920
+}
